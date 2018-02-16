@@ -1,8 +1,8 @@
 # Site settings
-title: Fernando Alves
+title: 
 email: your-email@domain.com
 url: https://example.github.io
-description: "University of Copenhagen Computer Science Master Student"
+description: ""
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
